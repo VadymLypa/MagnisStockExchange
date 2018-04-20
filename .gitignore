@@ -148,9 +148,6 @@ UpgradeLog*.htm
 # svn
 .svn
 
-# CVS - Source Control
-**/CVS/
-
 # Remainings from resolvings conflicts in Source Control
 *.orig
 
